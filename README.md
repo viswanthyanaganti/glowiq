@@ -1,0 +1,2 @@
+# glowiq
+Software Solutions company
